@@ -1,10 +1,9 @@
 * utm-ups
 
+Convert coordinates between latitude/longitude and UTM or UPS
 
-
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/glv/utm-ups.git   |
-| commit  |   |
-| systems | utm-ups |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://codeberg.org/glv/utm-ups.git |
+| commit  | f1e6fd4698                               |
+| systems | utm-ups                                  |
+|---------+------------------------------------------|
