@@ -2,9 +2,10 @@
 
 UTM and UPS coordinate system implementation
 
-|---------+---------------------------------------------|
-| source  | git:https://codeberg.org/glv/utm-ups.git    |
-| commit  | 40d7384                                     |
-| systems | utm-ups                                     |
-|---------+---------------------------------------------|
+|---------+------------------------------------------|
+| source  | git:https://codeberg.org/glv/utm-ups.git |
+| commit  | f1e6fd4                                  |
+| systems | utm-ups                                  |
+|---------+------------------------------------------|
+-------------|
 
